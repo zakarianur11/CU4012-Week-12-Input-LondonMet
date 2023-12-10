@@ -1,7 +1,7 @@
 // Input class
 // Class stores the current state on keyboard and mouse input.
 // Store which keys are pressed or released, mouse position and mouse button presses.
-// @author Paul Robertson
+
 
 #pragma once
 
