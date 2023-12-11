@@ -26,4 +26,14 @@ private:
 
 	// Add your object here
 
+	sf::Font Mousefont;
+	sf::Text MousePositiontext;
+	sf::CircleShape circle;
+
+
+	int x, y;
+
+	sf::Vector2i InitialMousePosition;
+	sf::Vector2i FinalMousePosition;
+	bool dragging = false;
 };
